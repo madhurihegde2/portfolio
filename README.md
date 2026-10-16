@@ -1,4 +1,4 @@
-# Madhuri Hegde — Portfolio V3
+# Madhuri Hegde — Portfolio
 
 This edition **restores the original portfolio character animation and hero design** while retaining the V2 enhancements to skills and experience.
 
